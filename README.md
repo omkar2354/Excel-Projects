@@ -1,8 +1,7 @@
 # Data Analysis in Excel
-
-    Welcome to the Data Analysis in Excel repository!
-    This collection contains industry-focused Excel dashboards designed to transform raw datasets into clear, actionable business insights.
-    Each project uses Pivot Tables, Charts, KPIs, and dashboard design techniques to highlight the power of Excel in data analytics.
+ Welcome to the Data Analysis in Excel repository!
+ This collection contains industry-focused Excel dashboards designed to transform raw datasets into clear, actionable business insights.
+ Each project uses Pivot Tables, Charts, KPIs, and dashboard design techniques to highlight the power of Excel in data analytics.
 
 ## 📂 Project Overview
 

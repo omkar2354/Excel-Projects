@@ -1,4 +1,4 @@
-Data Analysis in Excel
+#Data Analysis in Excel
 
 Welcome to the Data Analysis in Excel repository!
 This collection contains industry-focused Excel dashboards designed to transform raw datasets into clear, actionable business insights.

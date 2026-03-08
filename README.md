@@ -20,7 +20,7 @@ McDonald's Sales 2022 Dashboard
 
 A comprehensive dashboard built to analyze ecommerce performance and uncover growth opportunities.
 
-###Key Features:
+### Key Features:
 
 Sales & Profit Overview: Summary of total revenue and profitability.
 
@@ -38,7 +38,7 @@ This dashboard helps ecommerce teams optimize performance, pricing, and inventor
 
 A detailed HR-focused dashboard that offers visibility into workforce patterns and employee behavior.
 
-###Key Features:
+### Key Features:
 
 Workforce Distribution: Employees segmented by gender, age group, and department.
 
@@ -52,7 +52,7 @@ Ideal for HR teams working on reducing attrition and improving employee engageme
 
 An in-depth summary of Adidas sales trends, performance metrics, and retail patterns.
 
-Key Features:
+### Key Features:
 
 Total Sales (USD): Complete revenue overview.
 
@@ -68,7 +68,7 @@ Perfect for understanding distribution strategies and focusing on high-value ret
 
 A visually rich dashboard analyzing McDonald's sales and customer satisfaction for the year 2022.
 
-Key Features:
+### Key Features:
 
 Sales & Profit KPIs: Clear summary of the year's financial performance.
 
